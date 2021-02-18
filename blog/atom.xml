@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.driftctl.com/blog</id>
+    <title>driftctl-docs Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.driftctl.com/blog"/>
+    <subtitle>driftctl-docs Blog</subtitle>
+    <icon>https://docs.driftctl.com/img/favicon.ico</icon>
+</feed>
